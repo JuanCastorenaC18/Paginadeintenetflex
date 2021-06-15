@@ -1,0 +1,174 @@
+.raya{
+  display: flex;
+  min-height: 75px;
+  width: 139%;
+  background-color: black;
+  border: solid 2px black;
+  flex-direction: row;
+  box-shadow: -1px 1px 7px 0px rgba(0, 0, 0, 0.75);
+}
+.column-lateral{
+    display: flex;
+    min-width: 270px;
+    background-color: black;
+    border: solid 2px black;
+    min-height: 2490px; ;
+    justify-content: stretch;
+    flex-direction: column;
+    padding-top: 0px;
+    box-shadow: -1px 1px 7px 0px rgba(0, 0, 0, 0.75);
+}
+.columna-lado{
+    display: flex;
+    flex-direction: column;
+}
+.column{
+    padding-top: 125px;
+    width: 800vh;
+}
+.primer-cuadro{
+    display: flex;
+    flex-direction: column;
+    background-color: black;
+    border: solid 2px black;
+    min-height: 245px;
+    margin:30px;
+    min-width: 100px;
+    box-shadow: -1px 1px 7px 0px rgba(0, 0, 0, 0.75);
+}
+.flex-container{
+    display: flex;
+    height: 100vh;
+    background-color: black;
+    background: rgb(136, 233, 240);
+
+    flex-direction: row;
+    text-align: center;
+    flex-wrap: nowrap;
+}
+body{
+    margin: 0px;
+    padding: 0px;
+    background: rgb(136, 233, 240);
+}
+.dos-columnas{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+.segundo-cuadro{
+    display: flex;
+    background-color: black;
+    border: solid 2px black;
+    min-height: 245px;
+    width: 775px;
+    margin-left: -1603px;
+    margin-top: 435px;
+    box-shadow: -1px 1px 7px 0px rgba(0, 0, 0, 0.75);
+    min-height: 490px;
+}
+.tercer-cuadro{
+    display: flex;
+    background-color: black;
+    border: solid 2px black;
+    max-height: 245px;
+    min-width: 765px;
+    margin-left: -793px;
+    margin-top: 435px;
+    box-shadow: -1px 1px 7px 0px rgba(0, 0, 0, 0.75);
+    min-height: 490px;
+    flex-direction: column;
+}
+.primercuadro-linea4{
+    display: flex;
+    background-color: black;
+    border: solid 2px black;
+    min-width: 365px;
+    margin-top: 965px;
+    box-shadow: -1px 1px 7px 0px rgba(0, 0, 0, 0.75);
+    min-height: 252px;
+    flex-direction: row;
+    margin-left: -1580px;
+}
+.segundocuadro-linea4{
+    display: flex;
+    background-color: black;
+    border: solid 2px black;
+    min-width: 365px;
+    margin-top: 965px;
+    box-shadow: -1px 1px 7px 0px rgba(0, 0, 0, 0.75);
+    min-height: 252px;
+    flex-direction: row;
+    margin-left: 40px;
+}
+.tercercuadro-linea4{
+    display: flex;
+    background-color: black;
+    border: solid 2px black;
+    min-width: 365px;
+    margin-top: 965px;
+    box-shadow: -1px 1px 7px 0px rgba(0, 0, 0, 0.75);
+    min-height: 252px;
+    flex-direction: row;
+    margin-left: 37px;
+}
+.cuartocuadro-linea4{
+    display: flex;
+    background-color: black;
+    border: solid 2px black;
+    min-width: 365px;
+    margin-top: 965px;
+    box-shadow: -1px 1px 7px 0px rgba(0, 0, 0, 0.75);
+    min-height: 252px;
+    flex-direction: row;
+    margin-left: 34px;
+}
+.cuadrodeabajo{
+    display: flex;
+    flex-direction: row;
+    background-color: black;
+    border: solid 2px black;
+    min-height: 620px;
+    min-width: 1580px;
+    box-shadow: -1px 1px 7px 0px rgba(0, 0, 0, 0.75);
+    margin-top: 1255px;
+    margin-left: -1588px;
+}
+.primercuadrodeabajo{
+        display: flex;
+        background-color: black;
+        border: solid 2px black;
+        height: 585px;
+        min-width: 775px;
+        margin-left: -1582px;
+        margin-top: 1905px;
+        box-shadow: -1px 1px 7px 0px rgba(0, 0, 0, 0.75);
+   }
+   .segundocuadrodeabajo{
+    display: flex;
+    background-color: black;
+    border: solid 2px black;
+    height: 585px;
+    width: 775px;
+    margin-left: 22px;
+    margin-top: 1905px;
+    box-shadow: -1px 1px 7px 0px rgba(0, 0, 0, 0.75);
+   }
+   .raya2{
+    display: flex;
+    min-height: 75px;
+    width: 100%;
+    background-color:rgb(63,94,251);
+    background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%);;
+    border: solid 2px black;
+    flex-direction: row;
+    box-shadow: -1px 1px 7px 0px rgba(0, 0, 0, 0.75);
+    margin-top: 1526px;
+   }
+   footer{
+       flex-direction: column;
+       width: 205vh;
+       height: 100px;
+       margin-top: 1850px;
+       background-color: black;
+   }
